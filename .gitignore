@@ -1,0 +1,10 @@
+# Add venv folder to .gitignore
+venv/
+chromedriver.exe
+__pycache__/
+.idea/
+*.pyc
+*.pyo
+*.so
+*.swp
+*.log
